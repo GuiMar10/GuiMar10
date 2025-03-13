@@ -4,7 +4,7 @@ I'm Guilherme Marmiroli, also known as GuiMar10 or gui++, a 14yo brazillian soft
 - helping on projects at the BetterBrowser initiative, making the web open, customizable and cool again!
 
 ## What i've made:
-A lot happened since i created my first js file a year ago, so here are the things i'm most proud of:
+A lot happened since i created my first js file two years ago, so here are the things i'm most proud of:
 
 ### Salest:
 School made simple, productive and fun!
