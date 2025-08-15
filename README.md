@@ -1,4 +1,8 @@
 # Hey there! 🌱
+
+currently working in Pits™
+
+
 I'm Guilherme Marmiroli, also known as GuiMar10 or gui++, a 15yo brazillian software developer and future uiux designer!
 ## What i'm doing
 - helping on projects at the BetterBrowser initiative, making the web open, customizable and cool again!
